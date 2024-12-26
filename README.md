@@ -1,6 +1,6 @@
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmonet1&show_icons=true&theme=ambient_gradient)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmonet1&show_icons=true&theme=rose)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekmonet1)](https://solved.ac/ekmonet1/)
 
 <h3 align="left">✨ Platforms & Languages ✨</h3>
