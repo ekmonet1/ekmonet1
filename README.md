@@ -1,9 +1,7 @@
-
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmonet1&show_icons=true&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekmonet1&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekmonet1)](https://solved.ac/ekmonet1/)
-
-<h3 align="left">✨ Platforms & Languages ✨</h3>
+<!--![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ekmonet1&show_icons=true&theme=rose)-->
+## ✨ Platforms & Languages 
 <div align="left">
   <!--<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp-->
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -16,9 +14,6 @@
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>-->
-
-<br>
-
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -26,18 +21,19 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
 </div>
 
+<!--
 <br>
 
-<h3 align="left">📚 Studying 📚</h3>
+## 📚 Study
 <div align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
-
+-->
 <br>
 
-<h3 align="left">🛠 Tools 🛠</h3>
+## 🛠 Tools 🛠
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -57,13 +53,14 @@
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>-->
 
-<h3 align="left">📫 Contact 📫</h3>
+<!--
+## 📬 Contact
 <div align="left">
-  <!--<a href="https://velog.io/@oka1313">
+  <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>-->
+  </a>
   <a href="ekmonet11@gmail.com">
     <img
       src="https://img.shields.io/badge/ekmonet11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div>
+</div> -->
